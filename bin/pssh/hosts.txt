@@ -1,0 +1,5 @@
+#add your hosts connection string here
+#each line should be "[user[:password]@]host[:port]"
+#or "host[:port] user password"
+          
+root:zhangsheng@centos-linux         ha

@@ -1,0 +1,3 @@
+#test comment
+
+connection_restart      root:'zhangsheng'@centos-linux  systemctl;restart;zegochat-connection
